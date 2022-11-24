@@ -1,0 +1,1008 @@
+overrides:
+    load-shedding:
+        locations:
+            
+            AUT-1_1.techs.load_shedding:
+            
+            AUT-2_1.techs.load_shedding:
+            
+            AUT-3_1.techs.load_shedding:
+            
+            AUT-4_1.techs.load_shedding:
+            
+            AUT-5_1.techs.load_shedding:
+            
+            AUT-6_1.techs.load_shedding:
+            
+            AUT-7_1.techs.load_shedding:
+            
+            AUT-8_1.techs.load_shedding:
+            
+            AUT-9_1.techs.load_shedding:
+            
+            BEL-1_1.techs.load_shedding:
+            
+            BEL-2_1.techs.load_shedding:
+            
+            BEL-3_1.techs.load_shedding:
+            
+            BGR-1_1.techs.load_shedding:
+            
+            BGR-2_1.techs.load_shedding:
+            
+            BGR-3_1.techs.load_shedding:
+            
+            BGR-4_1.techs.load_shedding:
+            
+            BGR-5_1.techs.load_shedding:
+            
+            BGR-6_1.techs.load_shedding:
+            
+            BGR-7_1.techs.load_shedding:
+            
+            BGR-8_1.techs.load_shedding:
+            
+            BGR-9_1.techs.load_shedding:
+            
+            BGR-10_1.techs.load_shedding:
+            
+            BGR-11_1.techs.load_shedding:
+            
+            BGR-12_1.techs.load_shedding:
+            
+            BGR-13_1.techs.load_shedding:
+            
+            BGR-14_1.techs.load_shedding:
+            
+            BGR-15_1.techs.load_shedding:
+            
+            BGR-16_1.techs.load_shedding:
+            
+            BGR-17_1.techs.load_shedding:
+            
+            BGR-18_1.techs.load_shedding:
+            
+            BGR-19_1.techs.load_shedding:
+            
+            BGR-20_1.techs.load_shedding:
+            
+            BGR-21_1.techs.load_shedding:
+            
+            BGR-22_1.techs.load_shedding:
+            
+            BGR-23_1.techs.load_shedding:
+            
+            BGR-24_1.techs.load_shedding:
+            
+            BGR-25_1.techs.load_shedding:
+            
+            BGR-26_1.techs.load_shedding:
+            
+            BGR-27_1.techs.load_shedding:
+            
+            BGR-28_1.techs.load_shedding:
+            
+            HRV-1_1.techs.load_shedding:
+            
+            HRV-2_1.techs.load_shedding:
+            
+            HRV-3_1.techs.load_shedding:
+            
+            HRV-4_1.techs.load_shedding:
+            
+            HRV-5_1.techs.load_shedding:
+            
+            HRV-6_1.techs.load_shedding:
+            
+            HRV-7_1.techs.load_shedding:
+            
+            HRV-8_1.techs.load_shedding:
+            
+            HRV-9_1.techs.load_shedding:
+            
+            HRV-10_1.techs.load_shedding:
+            
+            HRV-11_1.techs.load_shedding:
+            
+            HRV-12_1.techs.load_shedding:
+            
+            HRV-13_1.techs.load_shedding:
+            
+            HRV-14_1.techs.load_shedding:
+            
+            HRV-15_1.techs.load_shedding:
+            
+            HRV-16_1.techs.load_shedding:
+            
+            HRV-17_1.techs.load_shedding:
+            
+            HRV-18_1.techs.load_shedding:
+            
+            HRV-19_1.techs.load_shedding:
+            
+            HRV-20_1.techs.load_shedding:
+            
+            HRV-21_1.techs.load_shedding:
+            
+            CYP-1_1.techs.load_shedding:
+            
+            CYP-2_1.techs.load_shedding:
+            
+            CYP-3_1.techs.load_shedding:
+            
+            CYP-4_1.techs.load_shedding:
+            
+            CYP-5_1.techs.load_shedding:
+            
+            CZE-1_1.techs.load_shedding:
+            
+            CZE-2_1.techs.load_shedding:
+            
+            CZE-3_1.techs.load_shedding:
+            
+            CZE-4_1.techs.load_shedding:
+            
+            CZE-5_1.techs.load_shedding:
+            
+            CZE-6_1.techs.load_shedding:
+            
+            CZE-7_1.techs.load_shedding:
+            
+            CZE-8_1.techs.load_shedding:
+            
+            CZE-9_1.techs.load_shedding:
+            
+            CZE-10_1.techs.load_shedding:
+            
+            CZE-11_1.techs.load_shedding:
+            
+            CZE-12_1.techs.load_shedding:
+            
+            CZE-13_1.techs.load_shedding:
+            
+            CZE-14_1.techs.load_shedding:
+            
+            DNK-1_1.techs.load_shedding:
+            
+            DNK-2_1.techs.load_shedding:
+            
+            DNK-3_1.techs.load_shedding:
+            
+            DNK-4_1.techs.load_shedding:
+            
+            DNK-5_1.techs.load_shedding:
+            
+            EST-1_1.techs.load_shedding:
+            
+            EST-2_1.techs.load_shedding:
+            
+            EST-3_1.techs.load_shedding:
+            
+            EST-4_1.techs.load_shedding:
+            
+            EST-5_1.techs.load_shedding:
+            
+            EST-7_1.techs.load_shedding:
+            
+            EST-6_1.techs.load_shedding:
+            
+            EST-8_1.techs.load_shedding:
+            
+            EST-9_1.techs.load_shedding:
+            
+            EST-10_1.techs.load_shedding:
+            
+            EST-11_1.techs.load_shedding:
+            
+            EST-12_1.techs.load_shedding:
+            
+            EST-13_1.techs.load_shedding:
+            
+            EST-14_1.techs.load_shedding:
+            
+            EST-15_1.techs.load_shedding:
+            
+            EST-16_1.techs.load_shedding:
+            
+            FIN-1_1.techs.load_shedding:
+            
+            FIN-2_1.techs.load_shedding:
+            
+            FIN-3_1.techs.load_shedding:
+            
+            FIN-4_1.techs.load_shedding:
+            
+            FIN-5_1.techs.load_shedding:
+            
+            FRA-1_1.techs.load_shedding:
+            
+            FRA-2_1.techs.load_shedding:
+            
+            FRA-3_1.techs.load_shedding:
+            
+            FRA-4_1.techs.load_shedding:
+            
+            FRA-5_1.techs.load_shedding:
+            
+            FRA-6_1.techs.load_shedding:
+            
+            FRA-7_1.techs.load_shedding:
+            
+            FRA-8_1.techs.load_shedding:
+            
+            FRA-9_1.techs.load_shedding:
+            
+            FRA-10_1.techs.load_shedding:
+            
+            FRA-11_1.techs.load_shedding:
+            
+            FRA-12_1.techs.load_shedding:
+            
+            FRA-13_1.techs.load_shedding:
+            
+            DEU-1_1.techs.load_shedding:
+            
+            DEU-2_1.techs.load_shedding:
+            
+            DEU-3_1.techs.load_shedding:
+            
+            DEU-4_1.techs.load_shedding:
+            
+            DEU-5_1.techs.load_shedding:
+            
+            DEU-6_1.techs.load_shedding:
+            
+            DEU-7_1.techs.load_shedding:
+            
+            DEU-8_1.techs.load_shedding:
+            
+            DEU-9_1.techs.load_shedding:
+            
+            DEU-10_1.techs.load_shedding:
+            
+            DEU-11_1.techs.load_shedding:
+            
+            DEU-12_1.techs.load_shedding:
+            
+            DEU-14_1.techs.load_shedding:
+            
+            DEU-13_1.techs.load_shedding:
+            
+            DEU-15_1.techs.load_shedding:
+            
+            DEU-16_1.techs.load_shedding:
+            
+            GRC-1_1.techs.load_shedding:
+            
+            GRC-2_1.techs.load_shedding:
+            
+            GRC-3_1.techs.load_shedding:
+            
+            GRC-4_1.techs.load_shedding:
+            
+            GRC-5_1.techs.load_shedding:
+            
+            GRC-6_1.techs.load_shedding:
+            
+            GRC-7_1.techs.load_shedding:
+            
+            GRC-8_1.techs.load_shedding:
+            
+            HUN-1_1.techs.load_shedding:
+            
+            HUN-2_1.techs.load_shedding:
+            
+            HUN-3_1.techs.load_shedding:
+            
+            HUN-4_1.techs.load_shedding:
+            
+            HUN-5_1.techs.load_shedding:
+            
+            HUN-6_1.techs.load_shedding:
+            
+            HUN-7_1.techs.load_shedding:
+            
+            HUN-8_1.techs.load_shedding:
+            
+            HUN-9_1.techs.load_shedding:
+            
+            HUN-10_1.techs.load_shedding:
+            
+            HUN-11_1.techs.load_shedding:
+            
+            HUN-12_1.techs.load_shedding:
+            
+            HUN-13_1.techs.load_shedding:
+            
+            HUN-14_1.techs.load_shedding:
+            
+            HUN-15_1.techs.load_shedding:
+            
+            HUN-16_1.techs.load_shedding:
+            
+            HUN-17_1.techs.load_shedding:
+            
+            HUN-18_1.techs.load_shedding:
+            
+            HUN-19_1.techs.load_shedding:
+            
+            HUN-20_1.techs.load_shedding:
+            
+            IRL-1_1.techs.load_shedding:
+            
+            IRL-2_1.techs.load_shedding:
+            
+            IRL-3_1.techs.load_shedding:
+            
+            IRL-4_1.techs.load_shedding:
+            
+            IRL-5_1.techs.load_shedding:
+            
+            IRL-6_1.techs.load_shedding:
+            
+            IRL-7_1.techs.load_shedding:
+            
+            IRL-8_1.techs.load_shedding:
+            
+            IRL-9_1.techs.load_shedding:
+            
+            IRL-10_1.techs.load_shedding:
+            
+            IRL-11_1.techs.load_shedding:
+            
+            IRL-12_1.techs.load_shedding:
+            
+            IRL-13_1.techs.load_shedding:
+            
+            IRL-14_1.techs.load_shedding:
+            
+            IRL-15_1.techs.load_shedding:
+            
+            IRL-16_1.techs.load_shedding:
+            
+            IRL-17_1.techs.load_shedding:
+            
+            IRL-18_1.techs.load_shedding:
+            
+            IRL-19_1.techs.load_shedding:
+            
+            IRL-20_1.techs.load_shedding:
+            
+            IRL-21_1.techs.load_shedding:
+            
+            IRL-22_1.techs.load_shedding:
+            
+            IRL-23_1.techs.load_shedding:
+            
+            IRL-24_1.techs.load_shedding:
+            
+            IRL-25_1.techs.load_shedding:
+            
+            IRL-26_1.techs.load_shedding:
+            
+            ITA-1_1.techs.load_shedding:
+            
+            ITA-2_1.techs.load_shedding:
+            
+            ITA-3_1.techs.load_shedding:
+            
+            ITA-4_1.techs.load_shedding:
+            
+            ITA-5_1.techs.load_shedding:
+            
+            ITA-6_1.techs.load_shedding:
+            
+            ITA-7_1.techs.load_shedding:
+            
+            ITA-8_1.techs.load_shedding:
+            
+            ITA-9_1.techs.load_shedding:
+            
+            ITA-10_1.techs.load_shedding:
+            
+            ITA-11_1.techs.load_shedding:
+            
+            ITA-12_1.techs.load_shedding:
+            
+            ITA-13_1.techs.load_shedding:
+            
+            ITA-14_1.techs.load_shedding:
+            
+            ITA-15_1.techs.load_shedding:
+            
+            ITA-16_1.techs.load_shedding:
+            
+            ITA-17_1.techs.load_shedding:
+            
+            ITA-18_1.techs.load_shedding:
+            
+            ITA-19_1.techs.load_shedding:
+            
+            ITA-20_1.techs.load_shedding:
+            
+            LVA-1_1.techs.load_shedding:
+            
+            LVA-2_1.techs.load_shedding:
+            
+            LVA-3_1.techs.load_shedding:
+            
+            LVA-4_1.techs.load_shedding:
+            
+            LVA-5_1.techs.load_shedding:
+            
+            LTU-1_1.techs.load_shedding:
+            
+            LTU-2_1.techs.load_shedding:
+            
+            LTU-3_1.techs.load_shedding:
+            
+            LTU-4_1.techs.load_shedding:
+            
+            LTU-5_1.techs.load_shedding:
+            
+            LTU-6_1.techs.load_shedding:
+            
+            LTU-7_1.techs.load_shedding:
+            
+            LTU-8_1.techs.load_shedding:
+            
+            LTU-9_1.techs.load_shedding:
+            
+            LTU-10_1.techs.load_shedding:
+            
+            LUX-1-1_1.techs.load_shedding:
+            
+            LUX-1-2_1.techs.load_shedding:
+            
+            LUX-1-3_1.techs.load_shedding:
+            
+            LUX-1-4_1.techs.load_shedding:
+            
+            LUX-1-5_1.techs.load_shedding:
+            
+            LUX-2-1_1.techs.load_shedding:
+            
+            LUX-2-2_1.techs.load_shedding:
+            
+            LUX-2-3_1.techs.load_shedding:
+            
+            LUX-3-1_1.techs.load_shedding:
+            
+            LUX-3-2_1.techs.load_shedding:
+            
+            LUX-3-3_1.techs.load_shedding:
+            
+            LUX-3-4_1.techs.load_shedding:
+            
+            NLD-1_1.techs.load_shedding:
+            
+            NLD-2_1.techs.load_shedding:
+            
+            NLD-3_1.techs.load_shedding:
+            
+            NLD-4_1.techs.load_shedding:
+            
+            NLD-5_1.techs.load_shedding:
+            
+            NLD-6_1.techs.load_shedding:
+            
+            NLD-7_1.techs.load_shedding:
+            
+            NLD-8_1.techs.load_shedding:
+            
+            NLD-9_1.techs.load_shedding:
+            
+            NLD-10_1.techs.load_shedding:
+            
+            NLD-11_1.techs.load_shedding:
+            
+            NLD-12_1.techs.load_shedding:
+            
+            NLD-13_1.techs.load_shedding:
+            
+            NLD-14_1.techs.load_shedding:
+            
+            POL-1_1.techs.load_shedding:
+            
+            POL-2_1.techs.load_shedding:
+            
+            POL-3_1.techs.load_shedding:
+            
+            POL-4_1.techs.load_shedding:
+            
+            POL-5_1.techs.load_shedding:
+            
+            POL-6_1.techs.load_shedding:
+            
+            POL-7_1.techs.load_shedding:
+            
+            POL-8_1.techs.load_shedding:
+            
+            POL-9_1.techs.load_shedding:
+            
+            POL-10_1.techs.load_shedding:
+            
+            POL-11_1.techs.load_shedding:
+            
+            POL-12_1.techs.load_shedding:
+            
+            POL-13_1.techs.load_shedding:
+            
+            POL-14_1.techs.load_shedding:
+            
+            POL-15_1.techs.load_shedding:
+            
+            POL-16_1.techs.load_shedding:
+            
+            PRT-1_1.techs.load_shedding:
+            
+            PRT-3_1.techs.load_shedding:
+            
+            PRT-4_1.techs.load_shedding:
+            
+            PRT-5_1.techs.load_shedding:
+            
+            PRT-6_1.techs.load_shedding:
+            
+            PRT-7_1.techs.load_shedding:
+            
+            PRT-8_1.techs.load_shedding:
+            
+            PRT-9_1.techs.load_shedding:
+            
+            PRT-10_1.techs.load_shedding:
+            
+            PRT-11_1.techs.load_shedding:
+            
+            PRT-12_1.techs.load_shedding:
+            
+            PRT-14_1.techs.load_shedding:
+            
+            PRT-15_1.techs.load_shedding:
+            
+            PRT-16_1.techs.load_shedding:
+            
+            PRT-17_1.techs.load_shedding:
+            
+            PRT-18_1.techs.load_shedding:
+            
+            PRT-19_1.techs.load_shedding:
+            
+            PRT-20_1.techs.load_shedding:
+            
+            ROU-1_1.techs.load_shedding:
+            
+            ROU-2_1.techs.load_shedding:
+            
+            ROU-3_1.techs.load_shedding:
+            
+            ROU-4_1.techs.load_shedding:
+            
+            ROU-5_1.techs.load_shedding:
+            
+            ROU-6_1.techs.load_shedding:
+            
+            ROU-7_1.techs.load_shedding:
+            
+            ROU-8_1.techs.load_shedding:
+            
+            ROU-9_1.techs.load_shedding:
+            
+            ROU-10_1.techs.load_shedding:
+            
+            ROU-11_1.techs.load_shedding:
+            
+            ROU-12_1.techs.load_shedding:
+            
+            ROU-13_1.techs.load_shedding:
+            
+            ROU-14_1.techs.load_shedding:
+            
+            ROU-15_1.techs.load_shedding:
+            
+            ROU-16_1.techs.load_shedding:
+            
+            ROU-17_1.techs.load_shedding:
+            
+            ROU-18_1.techs.load_shedding:
+            
+            ROU-19_1.techs.load_shedding:
+            
+            ROU-20_1.techs.load_shedding:
+            
+            ROU-21_1.techs.load_shedding:
+            
+            ROU-22_1.techs.load_shedding:
+            
+            ROU-23_1.techs.load_shedding:
+            
+            ROU-24_1.techs.load_shedding:
+            
+            ROU-25_1.techs.load_shedding:
+            
+            ROU-26_1.techs.load_shedding:
+            
+            ROU-27_1.techs.load_shedding:
+            
+            ROU-28_1.techs.load_shedding:
+            
+            ROU-29_1.techs.load_shedding:
+            
+            ROU-30_1.techs.load_shedding:
+            
+            ROU-31_1.techs.load_shedding:
+            
+            ROU-32_1.techs.load_shedding:
+            
+            ROU-33_1.techs.load_shedding:
+            
+            ROU-34_1.techs.load_shedding:
+            
+            ROU-35_1.techs.load_shedding:
+            
+            ROU-36_1.techs.load_shedding:
+            
+            ROU-37_1.techs.load_shedding:
+            
+            ROU-38_1.techs.load_shedding:
+            
+            ROU-39_1.techs.load_shedding:
+            
+            ROU-40_1.techs.load_shedding:
+            
+            ROU-41_1.techs.load_shedding:
+            
+            ROU-42_1.techs.load_shedding:
+            
+            SVK-1_1.techs.load_shedding:
+            
+            SVK-2_1.techs.load_shedding:
+            
+            SVK-3_1.techs.load_shedding:
+            
+            SVK-4_1.techs.load_shedding:
+            
+            SVK-5_1.techs.load_shedding:
+            
+            SVK-6_1.techs.load_shedding:
+            
+            SVK-7_1.techs.load_shedding:
+            
+            SVK-8_1.techs.load_shedding:
+            
+            SVN-1_1.techs.load_shedding:
+            
+            SVN-2_1.techs.load_shedding:
+            
+            SVN-3_1.techs.load_shedding:
+            
+            SVN-4_1.techs.load_shedding:
+            
+            SVN-5_1.techs.load_shedding:
+            
+            SVN-6_1.techs.load_shedding:
+            
+            SVN-7_1.techs.load_shedding:
+            
+            SVN-8_1.techs.load_shedding:
+            
+            SVN-9_1.techs.load_shedding:
+            
+            SVN-10_1.techs.load_shedding:
+            
+            SVN-11_1.techs.load_shedding:
+            
+            SVN-12_1.techs.load_shedding:
+            
+            ESP-1_1.techs.load_shedding:
+            
+            ESP-2_1.techs.load_shedding:
+            
+            ESP-3_1.techs.load_shedding:
+            
+            ESP-4_1.techs.load_shedding:
+            
+            ESP-5_1.techs.load_shedding:
+            
+            ESP-6_1.techs.load_shedding:
+            
+            ESP-7_1.techs.load_shedding:
+            
+            ESP-8_1.techs.load_shedding:
+            
+            ESP-9_1.techs.load_shedding:
+            
+            ESP-10_1.techs.load_shedding:
+            
+            ESP-11_1.techs.load_shedding:
+            
+            ESP-12_1.techs.load_shedding:
+            
+            ESP-13_1.techs.load_shedding:
+            
+            ESP-15_1.techs.load_shedding:
+            
+            ESP-16_1.techs.load_shedding:
+            
+            ESP-17_1.techs.load_shedding:
+            
+            ESP-18_1.techs.load_shedding:
+            
+            SWE-1_1.techs.load_shedding:
+            
+            SWE-2_1.techs.load_shedding:
+            
+            SWE-3_1.techs.load_shedding:
+            
+            SWE-4_1.techs.load_shedding:
+            
+            SWE-5_1.techs.load_shedding:
+            
+            SWE-6_1.techs.load_shedding:
+            
+            SWE-7_1.techs.load_shedding:
+            
+            SWE-8_1.techs.load_shedding:
+            
+            SWE-9_1.techs.load_shedding:
+            
+            SWE-10_1.techs.load_shedding:
+            
+            SWE-11_1.techs.load_shedding:
+            
+            SWE-12_1.techs.load_shedding:
+            
+            SWE-13_1.techs.load_shedding:
+            
+            SWE-14_1.techs.load_shedding:
+            
+            SWE-15_1.techs.load_shedding:
+            
+            SWE-16_1.techs.load_shedding:
+            
+            SWE-17_1.techs.load_shedding:
+            
+            SWE-18_1.techs.load_shedding:
+            
+            SWE-19_1.techs.load_shedding:
+            
+            SWE-20_1.techs.load_shedding:
+            
+            SWE-21_1.techs.load_shedding:
+            
+            GBR-1_1.techs.load_shedding:
+            
+            GBR-2_1.techs.load_shedding:
+            
+            GBR-3_1.techs.load_shedding:
+            
+            GBR-4_1.techs.load_shedding:
+            
+            ALB-1_1.techs.load_shedding:
+            
+            ALB-2_1.techs.load_shedding:
+            
+            ALB-3_1.techs.load_shedding:
+            
+            ALB-4_1.techs.load_shedding:
+            
+            ALB-5_1.techs.load_shedding:
+            
+            ALB-6_1.techs.load_shedding:
+            
+            ALB-7_1.techs.load_shedding:
+            
+            ALB-8_1.techs.load_shedding:
+            
+            ALB-9_1.techs.load_shedding:
+            
+            ALB-10_1.techs.load_shedding:
+            
+            ALB-11_1.techs.load_shedding:
+            
+            ALB-12_1.techs.load_shedding:
+            
+            BIH-1_1.techs.load_shedding:
+            
+            BIH-2_1.techs.load_shedding:
+            
+            BIH-3_1.techs.load_shedding:
+            
+            MK001.techs.load_shedding:
+            
+            MK002.techs.load_shedding:
+            
+            MK003.techs.load_shedding:
+            
+            MK004.techs.load_shedding:
+            
+            MK005.techs.load_shedding:
+            
+            MK006.techs.load_shedding:
+            
+            MK007.techs.load_shedding:
+            
+            MK008.techs.load_shedding:
+            
+            MNE-1_1.techs.load_shedding:
+            
+            MNE-2_1.techs.load_shedding:
+            
+            MNE-3_1.techs.load_shedding:
+            
+            MNE-4_1.techs.load_shedding:
+            
+            MNE-5_1.techs.load_shedding:
+            
+            MNE-6_1.techs.load_shedding:
+            
+            MNE-7_1.techs.load_shedding:
+            
+            MNE-8_1.techs.load_shedding:
+            
+            MNE-9_1.techs.load_shedding:
+            
+            MNE-10_1.techs.load_shedding:
+            
+            MNE-11_1.techs.load_shedding:
+            
+            MNE-12_1.techs.load_shedding:
+            
+            MNE-13_1.techs.load_shedding:
+            
+            MNE-14_1.techs.load_shedding:
+            
+            MNE-15_1.techs.load_shedding:
+            
+            MNE-16_1.techs.load_shedding:
+            
+            MNE-17_1.techs.load_shedding:
+            
+            MNE-18_1.techs.load_shedding:
+            
+            MNE-19_1.techs.load_shedding:
+            
+            MNE-20_1.techs.load_shedding:
+            
+            MNE-21_1.techs.load_shedding:
+            
+            NOR-1_1.techs.load_shedding:
+            
+            NOR-2_1.techs.load_shedding:
+            
+            NOR-3_1.techs.load_shedding:
+            
+            NOR-4_1.techs.load_shedding:
+            
+            NOR-5_1.techs.load_shedding:
+            
+            NOR-6_1.techs.load_shedding:
+            
+            NOR-7_1.techs.load_shedding:
+            
+            NOR-8_1.techs.load_shedding:
+            
+            NOR-9_1.techs.load_shedding:
+            
+            NOR-10_1.techs.load_shedding:
+            
+            NOR-11_1.techs.load_shedding:
+            
+            NOR-12_1.techs.load_shedding:
+            
+            NOR-13_1.techs.load_shedding:
+            
+            NOR-14_1.techs.load_shedding:
+            
+            NOR-15_1.techs.load_shedding:
+            
+            NOR-16_1.techs.load_shedding:
+            
+            NOR-17_1.techs.load_shedding:
+            
+            NOR-18_1.techs.load_shedding:
+            
+            NOR-19_1.techs.load_shedding:
+            
+            SRB-1_1.techs.load_shedding:
+            
+            SRB-2_1.techs.load_shedding:
+            
+            SRB-3_1.techs.load_shedding:
+            
+            SRB-4_1.techs.load_shedding:
+            
+            SRB-5_1.techs.load_shedding:
+            
+            SRB-6_1.techs.load_shedding:
+            
+            SRB-7_1.techs.load_shedding:
+            
+            SRB-8_1.techs.load_shedding:
+            
+            SRB-9_1.techs.load_shedding:
+            
+            SRB-10_1.techs.load_shedding:
+            
+            SRB-11_1.techs.load_shedding:
+            
+            SRB-12_1.techs.load_shedding:
+            
+            SRB-13_1.techs.load_shedding:
+            
+            SRB-14_1.techs.load_shedding:
+            
+            SRB-15_1.techs.load_shedding:
+            
+            SRB-16_1.techs.load_shedding:
+            
+            SRB-17_1.techs.load_shedding:
+            
+            SRB-18_1.techs.load_shedding:
+            
+            SRB-19_1.techs.load_shedding:
+            
+            SRB-20_1.techs.load_shedding:
+            
+            SRB-21_1.techs.load_shedding:
+            
+            SRB-22_1.techs.load_shedding:
+            
+            SRB-23_1.techs.load_shedding:
+            
+            SRB-24_1.techs.load_shedding:
+            
+            SRB-25_1.techs.load_shedding:
+            
+            CHE-1_1.techs.load_shedding:
+            
+            CHE-2_1.techs.load_shedding:
+            
+            CHE-3_1.techs.load_shedding:
+            
+            CHE-4_1.techs.load_shedding:
+            
+            CHE-5_1.techs.load_shedding:
+            
+            CHE-6_1.techs.load_shedding:
+            
+            CHE-7_1.techs.load_shedding:
+            
+            CHE-8_1.techs.load_shedding:
+            
+            CHE-9_1.techs.load_shedding:
+            
+            CHE-10_1.techs.load_shedding:
+            
+            CHE-11_1.techs.load_shedding:
+            
+            CHE-12_1.techs.load_shedding:
+            
+            CHE-13_1.techs.load_shedding:
+            
+            CHE-14_1.techs.load_shedding:
+            
+            CHE-15_1.techs.load_shedding:
+            
+            CHE-16_1.techs.load_shedding:
+            
+            CHE-17_1.techs.load_shedding:
+            
+            CHE-18_1.techs.load_shedding:
+            
+            CHE-19_1.techs.load_shedding:
+            
+            CHE-20_1.techs.load_shedding:
+            
+            CHE-21_1.techs.load_shedding:
+            
+            CHE-22_1.techs.load_shedding:
+            
+            CHE-23_1.techs.load_shedding:
+            
+            CHE-24_1.techs.load_shedding:
+            
+            CHE-25_1.techs.load_shedding:
+            
+            CHE-26_1.techs.load_shedding:
+            

@@ -1,6 +1,0 @@
-overrides:
-    load-shedding:
-        locations:
-            
-            EUR.techs.load_shedding:
-            

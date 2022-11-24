@@ -1,0 +1,337 @@
+Links:
+  UA.CH,Belarus:
+    UA.CH,Belarus:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.CH,UA.SM:
+    UA.CH,UA.SM:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.CK,UA.KV:
+    UA.CK,UA.KV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.CV,Moldavia:
+    UA.CV,Moldavia:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.CV,UA.KM:
+    UA.CV,UA.KM:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.CV,UA.VI:
+    UA.CV,UA.VI:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.DP,UA.DT:
+    UA.DP,UA.DT:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.DP,UA.ZP:
+    UA.DP,UA.ZP:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.DT,Russia:
+    UA.DT,Russia:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 300}
+  UA.DT,UA.KK:
+    UA.DT,UA.KK:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.DT,UA.LH:
+    UA.DT,UA.LH:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.IF,UA.CV:
+    UA.IF,UA.CV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.IF,UA.TP:
+    UA.IF,UA.TP:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KH,UA.CK:
+    UA.KH,UA.CK:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KH,UA.DP:
+    UA.KH,UA.DP:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KH,UA.PL:
+    UA.KH,UA.PL:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KM,UA.VI:
+    UA.KM,UA.VI:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KM,UA.ZT:
+    UA.KM,UA.ZT:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KR,Russia:
+    UA.KR,Russia:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 300}
+  UA.KR,UA.KS:
+    UA.KR,UA.KS:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KS,UA.DP:
+    UA.KS,UA.DP:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KS,UA.ZP:
+    UA.KS,UA.ZP:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KV,Belarus:
+    UA.KV,Belarus:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KV,UA.CH:
+    UA.KV,UA.CH:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.KV,UA.KVc:
+    UA.KV,UA.KVc:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.LH,Russia:
+    UA.LH,Russia:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.LV,Poland:
+    UA.LV,Poland:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 300}
+  UA.LV,UA.IF:
+    UA.LV,UA.IF:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 300}
+  UA.LV,UA.RV:
+    UA.LV,UA.RV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.LV,UA.TP:
+    UA.LV,UA.TP:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.LV,UA.VO:
+    UA.LV,UA.VO:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.MY,UA.DP:
+    UA.MY,UA.DP:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.MY,UA.KH:
+    UA.MY,UA.KH:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.MY,UA.KS:
+    UA.MY,UA.KS:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.OD,Moldavia:
+    UA.OD,Moldavia:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 700}
+  UA.OD,UA.MY:
+    UA.OD,UA.MY:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.PL,UA.KK:
+    UA.PL,UA.KK:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.PL,UA.SM:
+    UA.PL,UA.SM:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.RV,UA.KM:
+    UA.RV,UA.KM:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.SM,Russia:
+    UA.SM,Russia:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.SM,UA.KK:
+    UA.SM,UA.KK:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.TP,UA.CV:
+    UA.TP,UA.CV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.TP,UA.KM:
+    UA.TP,UA.KM:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.TP,UA.RV:
+    UA.TP,UA.RV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.VI,UA.CK:
+    UA.VI,UA.CK:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.VI,UA.KH:
+    UA.VI,UA.KH:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.VI,UA.OD:
+    UA.VI,UA.OD:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.VI,UA.ZT:
+    UA.VI,UA.ZT:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.VO,UA.RV:
+    UA.VO,UA.RV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
+  UA.ZK,Hungary:
+    UA.ZK,Hungary:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.ZK,Romania:
+    UA.ZK,Romania:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 700}
+  UA.ZK,Slovakia:
+    UA.ZK,Slovakia:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 700}
+  UA.ZK,UA.IF:
+    UA.ZK,UA.IF:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.ZK,UA.LV:
+    UA.ZK,UA.LV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 300}
+  UA.ZP,UA.DT:
+    UA.ZP,UA.DT:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 1200}
+  UA.ZT,UA.KV:
+    UA.ZT,UA.KV:
+      techs:
+        ac_transmission:
+          constraints:
+            energy_cap: {energy_cap: 450}
