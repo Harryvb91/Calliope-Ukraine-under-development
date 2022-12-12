@@ -1,5 +1,0 @@
-Links:
-  UA.ZK,Slovakia:
-    techs:
-      ac_transmission:
-        constraints: {energy_cap: 700}
